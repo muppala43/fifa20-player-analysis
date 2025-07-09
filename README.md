@@ -59,7 +59,3 @@ This project analyzes **FIFA 20 Career Mode player data** using data science and
 ## 📌 Notes
 
 This project is for educational purposes and uses data provided in the public domain for FIFA 20.
-
----
-
-⭐ If you like this project, feel free to star it and share your feedback!
